@@ -10,4 +10,10 @@ O projeto consiste em um web app de gerenciamento financeiro, onde se pode cadas
 
 ![mockup](https://user-images.githubusercontent.com/75871379/109563341-66159f00-7abe-11eb-96f9-dffb1f355960.gif)
 
+# Tecnologias Usadas
+
+* HTML
+* CSS
+* JAVASCRIPT
+
 
